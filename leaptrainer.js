@@ -226,7 +226,7 @@ LeapTrainer.Controller = Class.extend({
 	 	/**
 	 	 * 
 	 	 */
-	 	this.onFrame = function(frame) {		
+	 	this.onFrame = function(frame) {	
 			
 	 		/*
 	 		 * The pause() and resume() methods can be used to temporarily disable frame monitoring.
